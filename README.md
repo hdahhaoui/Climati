@@ -22,3 +22,5 @@ Pour utiliser la fonctionnalité de commentaire automatique par IA, vous devez f
 ```toml
 # .streamlit/secrets.toml
 openai_api_key = "sk-VOtreClÉAPi..."
+
+[![Ouvrir dans Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
